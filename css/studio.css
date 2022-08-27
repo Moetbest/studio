@@ -1,0 +1,30 @@
+.humble{
+    background-color: aqua;
+}
+
+
+.humble:hover{
+    background-color: blue;
+}
+
+
+.pseudo p:first-child{
+    background-color: yellow;
+}
+
+.pseudo p:first-child{
+    background-color: pink;
+}
+ 
+.interverval h3:nth-child(even){
+    background-color: green;
+}
+
+.interverval h3:nth-child(odd){
+    background-color: red;
+}
+
+.okoghene p::first-letter
+
+.okoghene h5::after
+
